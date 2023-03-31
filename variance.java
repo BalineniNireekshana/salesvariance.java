@@ -26,3 +26,7 @@ public class variance{
         return sumsquares / (data.length-1);
     }    
 }
+//output//
+2021 Variance:208.333333
+2022 Variance:100.000000
+Variance pct:-52.000000%
